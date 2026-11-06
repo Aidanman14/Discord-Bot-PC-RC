@@ -30,7 +30,11 @@ Never share `.env`, because anyone with the token can control the bot.
 
 ## Requirements
 discord.py>=2.4
+
 psutil
+
 mss
+
 Pillow
+
 python-dotenv
