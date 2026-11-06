@@ -1,5 +1,8 @@
 # Discord-Bot-PC-RC
+Discord Bot Personal Computer Remote Controller.
+
 A Discord bot that lets you check on your PC from anywhere.
+
 **SLIGHTLY AI ASSISTED**
 
 ## Commands
