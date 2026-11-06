@@ -1,5 +1,6 @@
 # Discord-Bot-PC-RC
 A Discord bot that lets you check on your PC from anywhere.
+**SLIGHTLY AI ASSISTED**
 
 ## Commands
 - `/status`: online check, uptime, CPU, RAM, GPU (with temperature), disks
@@ -24,4 +25,9 @@ Only your Discord account (`OWNER_ID`) can use the commands. Replies are only vi
 
 Never share `.env`, because anyone with the token can control the bot.
 
-**SLIGHTLY AI ASSISTED**
+## Requirements
+discord.py>=2.4
+psutil
+mss
+Pillow
+python-dotenv
