@@ -20,7 +20,7 @@ Only your Discord account (`OWNER_ID`) can use the commands. Replies are only vi
 2. Open **Bot**, click **Reset Token**, and copy the token.
 3. Under **Installation**, tick **Guild Install** and **User Install**, and add the `applications.commands` and `bot` scopes. Copy the install link and open it to add the bot.
 4. In Discord, go to Settings → Advanced and turn on **Developer Mode**. Then right-click your name and choose **Copy User ID**.
-5. Copy `.env.example` to `.env` and fill in:
+5. Copy `.env` and fill in:
    - `DISCORD_TOKEN`: the token from step 2
    - `OWNER_ID`: your user ID from step 4
    - `GUILD_ID` (optional): your server's ID. Commands show up instantly there. Without it, they can take a few minutes to appear.
